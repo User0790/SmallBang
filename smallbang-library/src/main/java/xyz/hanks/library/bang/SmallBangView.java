@@ -15,7 +15,6 @@ import android.view.animation.AccelerateDecelerateInterpolator;
 import android.view.animation.OvershootInterpolator;
 import android.widget.FrameLayout;
 
-import xyz.hanks.library.R;
 
 
 /**
